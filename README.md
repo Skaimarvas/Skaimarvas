@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Skaimarvas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React  Native
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI Engineering
+- 🌱 I’m currently learning React  Native, Pinecone
 - 📫 How to reach me : skaimarvas@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 Skaimarvas/Skaimarvas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
